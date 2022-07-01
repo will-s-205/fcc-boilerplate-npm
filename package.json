@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Wiliam Step",
-	"description": "this project is for learning npm",
+	"description": "this project is for the learning npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
