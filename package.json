@@ -4,6 +4,7 @@
 	"description": "this project is for the learning npm",
 	"keywords": ["freecodecamp","visual studio code","no others keywords"],
 	"license": "BSD",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
